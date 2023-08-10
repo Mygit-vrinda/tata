@@ -1,0 +1,47 @@
+.main-image-text{
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+.main-image{
+    width:100%;
+}
+.front-text-renewable{
+    position: absolute;
+    font-size: 45px;
+    font-weight: 300;
+    color: white;
+    font-family: 'ITC Avant GardeStd Bold';
+    top:37%;
+    left:4%;
+}
+.front-text-business{
+    position: absolute;
+    font-size: 45px;
+    font-weight: 300;
+    color: white;
+    font-family: 'CheddarJack';
+    top:50%;
+    left:4%;
+}
+.front-text-bottom{
+    position: absolute;
+    font-size: 25px;
+    font-weight: 300;
+    color: white;
+    font-family: 'CheddarJack';
+    left:4%;
+    bottom:2%
+}
+.main-text{
+    width: 100%;
+    height: 300px;
+    float: left;
+    display: block;
+    font-size: 35px;
+    font-weight: 400;
+    color: #666666;
+    line-height: 30px;
+    text-align: center;
+    padding-bottom: 30px;
+}
